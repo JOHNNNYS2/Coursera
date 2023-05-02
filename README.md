@@ -1,59 +1,27 @@
-<!DOCTYPE html>
-<html>
+# Coursera: HTML, CSS and Javascript for Web Developers
 
-<head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Module2 Assignment</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="css/style.css" />
-</head>
+This repository is for the assignments in the ["HTML, CSS, and Javascript for Web Developers"](https://www.coursera.org/learn/html-css-javascript-for-web-developers) course by [Yaakov Chaikin](https://www.coursera.org/instructor/yaakov-chaikin).
 
-<body>
-    <h1>Our Menu</h1>
+## Assignments
+Module2 Assignment:
+- [Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
+- [Solution](https://guanqiaoding.github.io/html-css-js-coursera/module2_solution)
+- [Source code](./module2_solution)
 
-    <div class="col-lg-4 col-md-6 col-sm-12">
-        <section>
-            <h2 id="chicken">Chicken</h2>
-            <ul>
-                <li>Balsamic Roasted Brussels Sprouts, Butternut Squash and Chicken Thighs</li>
-                <li>Prosciutto-Wrapped Chicken with Garlic and Herb Cheese</li>
-                <li>Siri Pinter’s One-Pot Chicken Alfredo</li>
-                <li>Florentine Penne with Chicken</li>
-                <li>Garlic-Bread Chicken Nuggets with Balsamic Ketchup</li>
-            </ul>
-        </section>
-    </div>
+Module3 Assignment:
+- [Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
+- [Solution](https://guanqiaoding.github.io/html-css-js-coursera/module3_solution)
+- [Source code](./module3_solution)
+- [Update with Bootstrap 4](./module3_bootstrap4)
 
-    <div class="col-lg-4 col-md-6 col-sm-12">
-        <section>
-            <h2 id="pork">Pork</h2>
-            <ul>
-                <li>Pork Cheek and Black-Eyed Pea Chili</li>
-                <li>Braised Pork with Cherry Gravy</li>
-                <li>Aleppo-Pepper-Pork-and-Fennel Sandwiches</li>
-                <li>Herb-Roasted Pork Subs with Garlicky Spinach</li>
-                <li>Chinese-Style Ribs with Guava Barbecue Sauce</li>
-                <li>Pork Medallions with Onion Marmalade</li>
-            </ul>
-        </section>
-    </div>
+Module4 Assignment:
+- [Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)
+- [Solution](https://guanqiaoding.github.io/html-css-js-coursera/module4_solution)
+- [Source code](./module4_solution)
 
-    <div class="col-lg-4 col-md-12 col-sm-12">
-        <section>
-            <h2 id="steak">Steak</h2>
-            <ul>
-                <li>Butter-Basted Rib Eye Steaks</li>
-                <li>Balsamic Marinated Flank Steak</li>
-                <li>Grilled Hanger Steak with Kimchi-Apple Slaw</li>
-                <li>Throwback Porterhouse Steaks</li>
-                <li>Minute Steak Stacks with Herbed Anchovy Butter</li>
-                <li>Grilled Skirt Steak with Salsa Verde</li>
-            </ul>
-        </section>
-    </div>
-        </p>
-    </div>
-</body>
+Module5 Assignment:
+- [Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md)
+- [Solution](https://guanqiaoding.github.io/html-css-js-coursera/module5_solution)
+- [Source code](./module5_solution)
 
-</html>
+
